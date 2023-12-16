@@ -48,4 +48,10 @@
     <string name="calculator">Calculator</string>
     <string name="power">^</string>
     <string name="calculator_heading">Calculator</string>
+    <string name="gameSubmitB">Enter</string>
+    <string name="gameEnterT">Entry</string>
+    <string name="gameResultV">Result</string>
+    <string name="gameTitle">Guessing Game</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
 </resources>

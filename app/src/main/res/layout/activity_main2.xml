@@ -48,7 +48,7 @@
         android:id="@+id/textView3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="#673AB7"
+        android:background="#9C27B0"
         android:contentDescription="@string/heading_url_finder"
         android:text="@string/url_finder"
         android:textColor="#FFFFFF"
